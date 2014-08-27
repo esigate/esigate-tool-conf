@@ -3,6 +3,11 @@
 	<groupId>org.esigate</groupId>
 	<artifactId>esigate-tool-conf</artifactId>
 	<version>1.0-SNAPSHOT</version>
+	<parent>
+		<groupId>org.sonatype.oss</groupId>
+		<artifactId>oss-parent</artifactId>
+		<version>7</version>
+	</parent>
 	<name>esigate-tool-conf</name>
 	<inceptionYear>2014</inceptionYear>
 	<url>http://www.esigate.org/</url>
