@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.esigate</groupId>
 	<artifactId>esigate-tool-conf</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.1</version>
 	<parent>
 		<groupId>org.sonatype.oss</groupId>
 		<artifactId>oss-parent</artifactId>
@@ -15,7 +15,7 @@
 		<connection>scm:git:https://github.com/esigate/esigate-tool-conf.git</connection>
 		<developerConnection>scm:git:https://github.com/esigate/esigate-tool-conf.git</developerConnection>
 		<url>https://github.com/esigate/esigate-tool-conf</url>
-	  <tag>HEAD</tag>
+	  <tag>esigate-tool-conf-1.1</tag>
   </scm>
 	<build>
 		<pluginManagement>
